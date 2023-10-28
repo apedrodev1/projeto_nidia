@@ -17,4 +17,4 @@ As telas e protótipos deste projeto podem ser visualizados no [Figma](<"https:/
   - GitHub: [https://github.com/apedrodev1](https://github.com/seu-username)
 
 - Vinicius Gomes Frigo
-  - GitHub: [https://github.com/seu-username](https://github.com/seu-username)
+  - GitHub: [https://github.com/feijaozinho17327](https://github.com/seu-username)
